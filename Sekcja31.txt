@@ -1,1 +1,3 @@
 Zmiana1
+ZmianaProstaWersja1
+ZmianaProstaWersja2
