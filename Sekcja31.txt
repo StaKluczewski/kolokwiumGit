@@ -1,4 +1,5 @@
 konflikt111-1-1
 ZmianaProstaWersja1
 ZmianaProstaWersja2
-
+zmiana2
+zmiana3
