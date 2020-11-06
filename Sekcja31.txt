@@ -1,5 +1,13 @@
 konflikt111-1-1
 ZmianaProstaWersja1
 ZmianaProstaWersja2
+<<<<<<< HEAD
 zmiana2
 zmiana3
+Zmiana 4
+=======
+
+>>>>>>> parent of c87b900... Wykonanie zmiany zmiana2 i zmiana3
+Zmiana10
+
+
